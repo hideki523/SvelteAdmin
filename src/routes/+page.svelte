@@ -11,7 +11,7 @@
 </script>
 
 <svelte:component this={dashboard.adminConfig.theme.dashboard} {dashboard}>
-	<h1>Svelte Admin demo app</h1>
+	<h1>Svelte Admin</h1>
 
 	<p>
 		Svelte Admin is a (currently prototype) admin generator delivered as a Typescript library and a
